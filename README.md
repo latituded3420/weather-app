@@ -77,11 +77,19 @@ To use your own API key:
 
 ## Screenshots
 
-[Your screenshots here]
+
+### Main Interface
+Weather app displays current temperature, weather conditions, humidity, and wind speed with a beautiful gradient background.
+
+### Features in Action
+- Real-time data fetching from OpenWeather API
+- Smooth fade animations on result display
+- Responsive design that works on mobile and desktop
+- Error handling for invalid city names
 
 ## Author
 
-Latitude D3420 (BCA Student)
+Salim (BCA Student
 
 ## License
 
