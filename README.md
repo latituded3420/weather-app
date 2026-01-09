@@ -89,7 +89,8 @@ Weather app displays current temperature, weather conditions, humidity, and wind
 
 ## Author
 
-Salim (BCA Student
+Salim (BCA Student) 
+for lerning api
 
 ## License
 
